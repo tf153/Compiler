@@ -1,9 +1,7 @@
-# create a copy of an object
 import copy
-# regular expression library (search pattern)
 import re
 
-# lets build a LISP to C compiler!
+# LISP to C compiler!
 # from LISP
 # i.e (add 2 (subtract 4 2))
 # to C
